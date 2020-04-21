@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "name": "data_company",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "title": "laden1",
+        "link": "hallo.de",
+        "image": "\/img\/test.png",
+        "summary": "Hallo Text",
+        "category": "Dienstleistung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1348516.845257456880063,
+          7185872.538182249292731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "title": "laden2",
+        "link": "dede.de",
+        "image": "awdaw",
+        "summary": "awdwad",
+        "category": "awda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1345868.397965237963945,
+          7186155.473973199725151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "title": "laden3",
+        "link": "awda.de",
+        "image": "dwa",
+        "summary": "awdaw",
+        "category": "awda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1347214.709535547997802,
+          7184093.934381162747741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "title": "laden4",
+        "link": "awdaw",
+        "image": "awd",
+        "summary": "awd",
+        "category": "awd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1345203.656627397518605,
+          7184960.622454550117254
+        ]
+      }
+    }
+  ]
+}
